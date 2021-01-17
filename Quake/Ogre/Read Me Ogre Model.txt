@@ -1,0 +1,17 @@
+Ogre model replacement for the game Quake by Id Software.
+
+Ogre model and skins by Tea Monster 2012/2013. 
+
+Email: tea(underscore)monster(at)yahoo(dot)com
+
+Model is issued under a Creative Commons Attribution-NonCommercial 3.0 Unported License
+
+http://creativecommons.org/licenses/by-nc/3.0/
+
+Files include: 
+1 Textures - Non PBR gloss/normal material textures for the Dark Places engine.
+
+2. Ogre_public_release.291.blend - Blender creation file for the Ogre, including skeleton and animations. 
+
+3. quake_ogre_DP_teamonster_r1.pk3 - Original release for the Dark Places engine. Model is an MD3, but is renamed to MDL for engine compatability reasons. 
+
