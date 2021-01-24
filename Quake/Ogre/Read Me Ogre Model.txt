@@ -9,9 +9,13 @@ Model is issued under a Creative Commons Attribution-NonCommercial 3.0 Unported 
 http://creativecommons.org/licenses/by-nc/3.0/
 
 Files include: 
-1 Textures - Non PBR gloss/normal material textures for the Dark Places engine.
+1 Textures - Non PBR gloss/normal material textures for the Dark Places engine. NEW: There is a PBR folder within 'textures' that contains PBR metallic textures for the Ogre main body. I haven't done the saw or the grenade launcher. 
 
 2. Ogre_public_release.291.blend - Blender creation file for the Ogre, including skeleton and animations. 
 
 3. quake_ogre_DP_teamonster_r1.pk3 - Original release for the Dark Places engine. Model is an MD3, but is renamed to MDL for engine compatability reasons. 
+
+4. Ogre_public_release.291_pbr.fbx - FBX file of the ogre. Can be used with either texture set. 
+
+5. Ogre_public_release.291_PBR.blend - Blender creation file for the Ogre, including skeleton and animations. Has a material setup for Eevee of PBR Metallic textures for the Ogre himself (not his weapons).
 
